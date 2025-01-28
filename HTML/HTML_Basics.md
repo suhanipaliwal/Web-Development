@@ -4,7 +4,7 @@ HTML (HyperText Markup Language) was created by Tim Berners-Lee in 1991 as a sta
 ## How do websites work?
  
 
-HTML Tags (Paired and Unpaired)
+## HTML Tags (Paired and Unpaired)
 Elements
 Attributes
 Comments
